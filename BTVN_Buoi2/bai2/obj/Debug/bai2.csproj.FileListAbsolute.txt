@@ -1,0 +1,7 @@
+G:\HIT_C#_PRI_2024\BTVN_Buoi2\bai2\bin\Debug\bai2.exe.config
+G:\HIT_C#_PRI_2024\BTVN_Buoi2\bai2\bin\Debug\bai2.exe
+G:\HIT_C#_PRI_2024\BTVN_Buoi2\bai2\bin\Debug\bai2.pdb
+G:\HIT_C#_PRI_2024\BTVN_Buoi2\bai2\obj\Debug\bai2.csproj.AssemblyReference.cache
+G:\HIT_C#_PRI_2024\BTVN_Buoi2\bai2\obj\Debug\bai2.csproj.CoreCompileInputs.cache
+G:\HIT_C#_PRI_2024\BTVN_Buoi2\bai2\obj\Debug\bai2.exe
+G:\HIT_C#_PRI_2024\BTVN_Buoi2\bai2\obj\Debug\bai2.pdb
