@@ -1,0 +1,7 @@
+G:\HIT_C#_PRI_2024\BTVn Buoi 5\BTVN1\obj\Debug\BTVN1.csproj.AssemblyReference.cache
+G:\HIT_C#_PRI_2024\BTVn Buoi 5\BTVN1\obj\Debug\BTVN1.csproj.CoreCompileInputs.cache
+G:\HIT_C#_PRI_2024\BTVn Buoi 5\BTVN1\bin\Debug\BTVN1.exe.config
+G:\HIT_C#_PRI_2024\BTVn Buoi 5\BTVN1\bin\Debug\BTVN1.exe
+G:\HIT_C#_PRI_2024\BTVn Buoi 5\BTVN1\bin\Debug\BTVN1.pdb
+G:\HIT_C#_PRI_2024\BTVn Buoi 5\BTVN1\obj\Debug\BTVN1.exe
+G:\HIT_C#_PRI_2024\BTVn Buoi 5\BTVN1\obj\Debug\BTVN1.pdb
